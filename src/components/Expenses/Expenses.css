@@ -1,0 +1,7 @@
+.expenses {
+  padding: 1rem;
+  background: radial-gradient(#7665b6,#2667C2);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
