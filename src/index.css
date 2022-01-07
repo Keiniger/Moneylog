@@ -1,20 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&family=VT323&display=swap');
 * {
   box-sizing: border-box;
 }
 
 html {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Nova Mono', monospace;
+  font-size: 120%;
+  font-weight: bold;
 }
 
 body {
   margin: 0;
   background-color: #3f3f3f;
-  background: radial-gradient(#25AFC2, #2666C2)
+  background: radial-gradient(#25afc2, #2666c2);
 }
 
-::-moz-selection { /* Code for Firefox */
+::-moz-selection {
+  /* Code for Firefox */
   color: black;
   background: rgba(255, 255, 255, 0.4);
 }
