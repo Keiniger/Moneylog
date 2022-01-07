@@ -25,6 +25,7 @@
 
 .chart-bar__label {
   font-weight: bold;
+  width: 20px;
   color: white;
   font-size: 0.65rem;
   text-align: center;
